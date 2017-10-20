@@ -1,0 +1,23 @@
+{
+  "name": "mobile-keyboard-translator-rebased",
+  "version": "1.0.0",
+  "description": "Entry task to Rebased Academy",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest-cli": "^21.2.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majkamajka/mobile-keyboard-translator-rebased.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majkamajka/mobile-keyboard-translator-rebased/issues"
+  },
+  "homepage": "https://github.com/majkamajka/mobile-keyboard-translator-rebased#readme"
+}
