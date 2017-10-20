@@ -1,6 +1,3 @@
-//document.addEventListener('DOMContentLoaded', () => {
-
-
 
 function translateNumber(num) {
   let translatedNum = [];
@@ -29,8 +26,5 @@ function translateNumber(num) {
   return translatedNum;
 }
 
-//console.log(translateNumber("1-800-FLOWER"));
-
-//});
 
 module.exports = translateNumber;
