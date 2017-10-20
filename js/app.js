@@ -1,4 +1,3 @@
-
 function translateNumber(num) {
   let translatedNum = [];
   for (let i = 0; i < num.length; i++) {
@@ -25,6 +24,5 @@ function translateNumber(num) {
   translatedNum = translatedNum.join('');
   return translatedNum;
 }
-
 
 module.exports = translateNumber;
